@@ -80,3 +80,49 @@ Making a branch:
 
 Commits 
 - After making changes to a branch, if you scroll to the bottom of a page there is an option to "commit" This will save any changes made. When submitting a commit it is important to give a description of the changes being made. An example of a good commit message would be: "Fix: Added tutorial on GitHub Basics". If you are editing lines of code it would be useful to include the line numbers of the lines changed. 
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Glossary:
+
+
+**Branch**: This acts as a parallel version and starts out as a copy of the main repository, allowing changes to be made without disrupting the original repository unless the branch is merged into it. This is useful for group work or work with many steps because multiple branches can be made for a project.
+
+**Clone**: This is a command used to make a copy of every file, history, and branch from a  remotely existing project. This is done on a main computer or device instead of a server. The clone is still connected to the original, so changes can be pushed once finished (if the user is connected to the internet).
+
+**Commit**:  Also referred to as a revision, this is a record of changes that are made to a branch or file. There is also a version history that shows who made the commit and what time it was made, alongside a description that explains the change made.
+
+**Fetch**: This is a command used to add changes to a branch without the use of a commit. This is useful because it allows changes to be reviewed before they are committed.
+
+**GIT**: An open-source program that is used to track changes made in text files, mainly being used by the Github interface.
+
+**Github**: A web-based interface that is useful for group work because it is open source and allows multiple people to work on the same project at the same time. It is also useful for personal projects that require many seperate parts and revisions. 
+
+**Merge**: This is a command that can combine work done on one branch of a project with another. It is usually done by using a pull request or request to merge.
+
+**Merge Conflict**: This occurs when there is a difference between the branches trying to be merged. This is caused by different changes being made to the same line of a file, or when a user is editing a file that another user deleted. Merges can’t occur until all merge conflicts are resolved.
+
+**Push**: This command is used to update a remote repository with locally made commits. To summarize, changes that are made by the user for a branch can be sent to the repository to update it.
+
+**Pull**: This command is used for grabbing changes and merging them to a branch. This can be useful when multiple users are editing the same file and want to keep it updated.
+
+**Remote**: Version of repository and branches that is hosted on a server. Local changes that are made on an IDE (and/or project clone) can be pushed directly to GitHub.
+
+**Repository**: A project's main folder that holds all project files, and can include many collaborators. 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Resources:
+
+
+- https://searchitoperations.techtarget.com/definition/GitHub
+- https://docs.github.com/en/get-started/using-git/about-git
+- https://docs.github.com/en/get-started/quickstart/github-glossary
+- https://digital.gov/resources/an-introduction-github/#:~:text=GitHub%20is%20a%20web%2Dbased,and%20edit%20their%20site%20content
+- https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches
+- https://www.jetbrains.com/help/webstorm/github.html
+- https://www.jetbrains.com/help/webstorm/manage-projects-hosted-on-github.html
+- https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
