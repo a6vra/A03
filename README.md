@@ -6,8 +6,8 @@ Table of Contents:
 1. Creating an account on GitHub
 2. Git download
 3. Webstorm download
-4. GitHub and software basics
-5. Glossary of definitions
+4. GitHub basics
+5. Glossary 
 6. Resources
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -61,7 +61,7 @@ Managing and working on your own GitHub projects with Webstorm:
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-4. GitHub and software basics
+4. GitHub basics
 
 
 - Now that an account is created with GitHub, and Git and Webstorm are downloaded, what happens now? You are now able to start or join projects.
@@ -83,7 +83,7 @@ Commits
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Glossary:
+5. Glossary:
 
 
 **Branch**: This acts as a parallel version and starts out as a copy of the main repository, allowing changes to be made without disrupting the original repository unless the branch is merged into it. This is useful for group work or work with many steps because multiple branches can be made for a project.
@@ -111,7 +111,7 @@ Glossary:
 **Repository**: A project's main folder that holds all project files, and can include many collaborators. 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Resources:
+6. Resources:
 
 
 - https://searchitoperations.techtarget.com/definition/GitHub
